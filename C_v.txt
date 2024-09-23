@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Renad Nasrelden Awad</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-info span {
+            display: block;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #e74c3c;
+            padding-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Renad Nasrelden Awad</h1>
+        <div class="contact-info">
+            <span>Location: Egypt, Cairo</span>
+            <span>Email: <a href="mailto:Renadnasr6@gmail.com">Renadnasr6@gmail.com</a></span>
+            <span>Phone: 01552479979</span>
+        </div>
+
+        <div class="section">
+            <h2>Summary</h2>
+            <p>An aerospace engineering student seeking to apply theoretical knowledge and hands-on experience in aerospace systems design, analysis, and optimization. Eager to contribute to innovative projects while gaining valuable industry experience and further developing technical skills in a collaborative environment.</p>
+        </div>
+
+        <div class="section">
+            <h2>Experience</h2>
+            <ul>
+                <li><strong>Control Team member at UDC</strong><br>
+                    Specialized in the design and validation of flight controllers.<br>
+                    UDC Lab – Egypt, Giza.<br>
+                    May 2024 to Current.
+                </li>
+                <li><strong>Power Team member at SSTL</strong><br>
+                    Designing PCBs for satellites, optimizing power consumption of components to ensure reliable operation in limited power conditions.<br>
+                    SSTL Lab – Egypt, Giza.<br>
+                    March 2024 to Current.
+                </li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>CAD programs and CFD analysis:</strong> SolidWorks, NX Siemens, Fusion 360, Femap, Ansys</li>
+                <li><strong>Simulink and mathematical software:</strong> MATLAB</li>
+                <li><strong>Programming languages:</strong> C++, Python, HTML</li>
+                <li><strong>Languages:</strong> Arabic, English, French, Turkish</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <p><strong>Cairo University, Faculty of Engineering</strong><br>
+            Egypt, Giza.<br>
+            2021 to Current.</p>
+        </div>
+
+        <div class="section">
+            <h2>Certifications</h2>
+            <ul>
+                <li>MATLAB Onramp – MathWorks</li>
+                <li>Python Programming Basics – Mahara-tech</li>
+                <li>HTML – Mahara-tech</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Projects</h2>
+            <ul>
+                <li>Smart house</li>
+                <li>UAV plane "DBF 2023 Competition participant"</li>
+                <li>Cube sat</li>
+                <li>CFM56-3 Turbofan</li>
+                <li>Ground Track for satellite</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
